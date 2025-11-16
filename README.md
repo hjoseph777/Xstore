@@ -79,23 +79,6 @@ Store Build II is a comprehensive Windows automation tool designed to streamline
 - Samsung Universal Print Driver
 - Network connectivity for personalization
 
-## Download and Installation
-
-### 📦 Latest Release
-
-
-
-## Download and Installation
-
-
-### 📦 Latest Release
-[![Download Latest Release](https://img.shields.io/github/v/release/hjoseph777/Xstore?label=Download&style=for-the-badge)](https://github.com/hjoseph777/Xstore/releases/tag/v1)
-
-**Download Options:**
-- **Complete Package**: [Xstore.zip](https://github.com/hjoseph777/Xstore/releases/download/v1/Xstore.zip) *(Includes all dependencies)*
-- **Script Only**: [beta5.au3](https://github.com/hjoseph777/Xstore/releases/download/v1/beta5.au3) *(Main AutoIt script)*
-
-
 
 
 
