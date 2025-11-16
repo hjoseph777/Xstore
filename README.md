@@ -252,7 +252,7 @@ This software is provided "as is" without warranty of any kind. Users are respon
 
 **Author**: Harry Joseph  
 **Original Date**: July 12, 2017  
-**Project Repository**: [GoldStoreBuildBeta5](https://github.com/hjoseph777/Beta5)  
+**Project Repository**: [GoldStoreBuildBeta5](https://github.com/hjoseph777/Xstore.git)  
 **Release Version**: v1.0
 
 ---
