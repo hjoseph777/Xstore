@@ -3,7 +3,7 @@ keep files needed to install Xstore Oracle and Jar Private
 # Store Build II - POS System Configuration Tool
 
 <div align="center">
-  <img src="assets/storebuild-icon.png" alt="Store Build II Icon" width="128" height="128">
+  <img src="storebuild-icon.png" alt="Store Build II Icon" width="128" height="128">
   
   <p>
     <img src="https://img.shields.io/badge/AutoIt-3.x-blue.svg" alt="AutoIt Version">
