@@ -82,6 +82,19 @@ Store Build II is a comprehensive Windows automation tool designed to streamline
 ## Download and Installation
 
 ### 📦 Latest Release
+
+
+
+## Download and Installation
+
+### 📦 Latest Release
+[![Download Latest Release](https://img.shields.io/github/v/release/hjoseph777/Xstore?label=Download&style=for-the-badge)](https://github.com/hjoseph777/Xstore/releases/tag/v1)
+
+**Direct Download (v1 release)**: [beta5.au3](https://github.com/hjoseph777/Xstore/releases/download/v1/Xstore.zip)
+
+
+
+
 [![Download Latest Release](https://img.shields.io/badge/Download-v1-success.svg?style=for-the-badge)](https://github.com/hjoseph777/Xstore/releases/latest)
 
 **Direct Download (latest release)**: [Beta5.zip](https://github.com/hjoseph777/Xstore/releases/latest/download/Xstore.zip)
