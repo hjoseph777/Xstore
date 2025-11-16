@@ -81,12 +81,12 @@ Store Build II is a comprehensive Windows automation tool designed to streamline
 
 ## Download and Installation
 
+
 ### 📦 Latest Release
 ### 📦 Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download-v1.0-success.svg?style=for-the-badge)](https://github.com/hjoseph777/{repo}/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download-v1-success.svg?style=for-the-badge)](https://github.com/hjoseph777/Beta5/releases/latest)
 
-**Direct Download (latest release)**: [GoldStoreBuildBeta5.zip](https://github.com/hjoseph777/{repo}/releases/latest/download/Beta5.zip)
-
+**Direct Download (latest release)**: [Beta5.zip](https://github.com/hjoseph777/GoldStoreBuildBeta5/releases/latest/download/Beta5.zip)
 ### Installation Steps
 
 1. **Download** the application executable from the link above
